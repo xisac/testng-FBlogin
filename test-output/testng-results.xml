@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32885" started-at="2016-09-19T17:42:04Z" finished-at="2016-09-19T17:42:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32885" started-at="2016-09-19T17:42:04Z" finished-at="2016-09-19T17:42:37Z">
+      <class name="fbtestcase.fbLogin">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:fbtestcase.fbLogin@1753acfe]" name="launchbrowser" is-config="true" duration-ms="8203" started-at="2016-09-19T22:42:04Z" finished-at="2016-09-19T22:42:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="openfb()[pri:0, instance:fbtestcase.fbLogin@1753acfe]" name="openfb" duration-ms="7067" started-at="2016-09-19T22:42:12Z" finished-at="2016-09-19T22:42:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfb -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:fbtestcase.fbLogin@1753acfe]" name="logout" is-config="true" duration-ms="17563" started-at="2016-09-19T22:42:19Z" finished-at="2016-09-19T22:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- fbtestcase.fbLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
